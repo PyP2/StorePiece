@@ -1,0 +1,46 @@
+h1.arar
+
+{  
+    max-width: 300px;
+    margin: auto;
+    padding: 30px;
+    background-color: #070000;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    
+    
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   color: blue;
+   text-decoration-color:blueviolet ;
+   text-decoration:overline;
+   text-align: center;
+   
+}
+h1.Login
+{
+    max-width: 110px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+h1.Sign
+{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+body
+{
+    background-image:url("https://phantom-marca.unidadeditorial.es/46c6db0ea309facd7316032f758e7fae/resize/660/f/webp/assets/multimedia/imagenes/2022/12/12/16708663428145.jpg") ;
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
